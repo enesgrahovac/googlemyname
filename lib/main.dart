@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   bool emptySearchBox = true;
 
-  static String firestoreURL = "https://firebasestorage.googleapis.com/v0/b/searchcv-23163.appspot.com/o/";
+  static String firestoreURL = "https://firebasestorage.googleapis.com/v0/b/myname-5.appspot.com/o/";
 
   final List<String> googleColorPattern = [
     googleBlue,
